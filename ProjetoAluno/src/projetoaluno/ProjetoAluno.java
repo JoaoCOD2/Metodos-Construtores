@@ -16,7 +16,7 @@ public class ProjetoAluno {
         Thread.sleep(1500);
         a1.verificarAprovacao();
         
-        System.out.println("-------------------------");
+        System.out.println("-------------------------------------");
 
         Aluno a2 = new Aluno("Alice", 4.5, 2.4);
 

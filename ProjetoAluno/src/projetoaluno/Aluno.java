@@ -8,8 +8,8 @@ public class Aluno {
 
     public Aluno(String nome, double nota1, double nota2) {
         this.nome = nome;
-        setNota1(nota1);
-        setNota2(nota2);
+        this.nota1 = nota1;
+        this.nota2 = nota2;
     }
 
     public String getNome() {
